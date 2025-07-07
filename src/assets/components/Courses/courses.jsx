@@ -16,9 +16,8 @@ const Courses = () => {
                             <span className="text-xs bg-indigo-100 text-indigo-600 font-semibold px-3 py-1 rounded-full inline-block mb-3">{`#${course.tag}`}</span>
                             <h3 className="text-lg font-semibold text-gray-800 mb-2">{course.title}</h3>
                             <div className="text-sm text-gray-600 space-y-1 mb-4">
-                                <p>{course.duration}</p>
+                                {/* <p>{course.duration}</p> */}
                                 <p>{course.format}</p>
-                                <p>{course.reviews} avaliações</p>
                             </div>
                             <div className="flex justify-between items-center">
                                 <a

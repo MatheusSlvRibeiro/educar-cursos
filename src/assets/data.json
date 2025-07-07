@@ -1,56 +1,74 @@
 [
-  {
-    "title": "Masterclass da alfabetização",
-    "tag": "Psicopedagogia",
-    "duration": "6 semanas",
-    "format": "Online",
-    "reviews": 98,
-    "image": "/images/courses/curso masterclass.png",
-    "link": "https://www.educarcomevidencias.com/masterclass-da-alfabetizacao"
-  },
-  {
-    "title": "Curso de Avaliação Cognitiva da Leitura",
-    "tag": "Psicopedagogia",
-    "duration": "4 semanas",
-    "format": "Online",
-    "reviews": 134,
-    "image": "/images/courses/avaliacao_cognitiva.png",
-    "link": "https://www.educarcomevidencias.com/curso-de-avaliacao-cognitiva-da-leitura"
-  },
-  {
-    "title": "Intervenção em Fluência de Leitura",
-    "tag": "Mentoria",
-    "duration": "5 semanas",
-    "format": "Online",
-    "reviews": 87,
-    "image": "/images/courses/intervenção de leitura.png",
-    "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura"
-  },
-  {
-    "title": "RTI : Suporte educacional para todos.",
-    "tag": "Curso",
-    "duration": "5 semanas",
-    "format": "Online",
-    "reviews": 87,
-    "image": "/images/courses/RTI.jpeg",
-    "link": "https://chk.eduzz.com/1W3VQB1G92"
-  },
-  {
-    "title": "Curso de Psicometria Básica",
-    "tag": "minicurso",
-    "duration": "5 semanas",
-    "format": "Online",
-    "reviews": 87,
-    "image": "/images/courses/psicometriaBasica.jpg",
-    "link": "https://chk.eduzz.com/39ZB6VOD9E"
-  },
-  {
-    "title": "O Papel das Funções Executivas em Contextos Desafiadores",
-    "tag": "Palestra",
-    "duration": "5 semanas",
-    "format": "Online",
-    "reviews": 87,
-    "image": "/images/courses/CursoFuncoesExecutivas.png",
-    "link": "https://chk.eduzz.com/69KAGZ870O"
-  }
+    {
+        "title": "Masterclass da alfabetização",
+        "tag": "Psicopedagogia",
+        "duration": "Certificado de 5 horas",
+        "format": "Online",
+        "image": "/images/courses/curso masterclass.png",
+        "link": "https://www.educarcomevidencias.com/masterclass-da-alfabetizacao"
+    },
+    {
+        "title": "Curso de Avaliação Cognitiva da Leitura",
+        "tag": "Psicopedagogia",
+        "duration": "Certificado de 20 horas",
+        "format": "Online",
+        "image": "/images/courses/avaliacao_cognitiva.png",
+        "link": "https://www.educarcomevidencias.com/curso-de-avaliacao-cognitiva-da-leitura"
+    },
+    {
+        "title": "Intervenção em Fluência de Leitura",
+        "tag": "Mentoria",
+        "duration": "Certificado de 15 horas",
+        "format": "Online",
+        "image": "/images/courses/intervenção de leitura.png",
+        "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura"
+    },
+    {
+        "title": "Grupo de discussão Clínica e Pedagógica | Dr. Gabriel Brito",
+        "tag": "Grupo Exclusivo",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/grupo.jpeg",
+        "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura"
+    },
+    {
+        "title": "RTI : Suporte educacional para todos.",
+        "tag": "Curso",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/RTI.jpeg",
+        "link": "https://chk.eduzz.com/1W3VQB1G92"
+    },
+    {
+        "title": "Curso de Psicometria Básica",
+        "tag": "minicurso",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/psicometriaBasica.jpg",
+        "link": "https://chk.eduzz.com/39ZB6VOD9E"
+    },
+    {
+        "title": "O Papel das Funções Executivas em Contextos Desafiadores",
+        "tag": "Palestra",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/CursoFuncoesExecutivas.png",
+        "link": "https://chk.eduzz.com/69KAGZ870O"
+    },
+    {
+        "title": "Palestra Online - Curriculum Lattes",
+        "tag": "Palestra",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/lattes.jpg",
+        "link": "https://chk.eduzz.com/D0RANO129Y"
+    },
+    {
+        "title": "Leia como uma Estrela: Dominando as Sílabas Complexas",
+        "tag": "Curso",
+        "duration": "",
+        "format": "Online",
+        "image": "/images/courses/estrela de cinema.png",
+        "link": "https://chk.eduzz.com/89AQ7VXGWD"
+    }
 ]
