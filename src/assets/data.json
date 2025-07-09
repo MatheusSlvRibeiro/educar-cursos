@@ -4,24 +4,24 @@
         "tag": "Psicopedagogia",
         "duration": "Certificado de 5 horas",
         "format": "Online",
-        "image": "/images/courses/curso masterclass.png",
-        "link": "https://www.educarcomevidencias.com/masterclass.jpg"
+        "image": "/images/courses/masterclass.jpg",
+        "link": "https://www.educarcomevidencias.com/masterclass-da-alfabetizacao"
     },
     {
         "title": "Curso de Avaliação Cognitiva da Leitura",
         "tag": "Psicopedagogia",
         "duration": "Certificado de 20 horas",
         "format": "Online",
-        "image": "/images/courses/avaliacao_cognitiva.png",
-        "link": "https://www.educarcomevidencias.com/cognitiva.jpg"
+        "image": "/images/courses/cognitiva.jpg",
+        "link": "https://www.educarcomevidencias.com/curso-de-avaliacao-cognitiva-da-leitura"
     },
     {
         "title": "Intervenção em Fluência de Leitura",
         "tag": "Mentoria",
         "duration": "Certificado de 15 horas",
         "format": "Online",
-        "image": "/images/courses/intervenção de leitura.png",
-        "link": "https://www.educarcomevidencias.com/fluencia.jpg"
+        "image": "/images/courses/fluencia.jpg",
+        "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura"
     },
     {
         "title": "Grupo de discussão Clínica e Pedagógica | Dr. Gabriel Brito",
