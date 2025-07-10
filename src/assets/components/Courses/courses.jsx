@@ -11,12 +11,12 @@ const Courses = () => {
             <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                 {courses.map((course, index) => (
                     <div key={index} className="bg-white shadow-md rounded-2xl overflow-hidden border border-gray-100 hover:shadow-xl transition-all duration-300">
-                        <img src={course.image} alt={course.title} className="w-full h-[300px] object-cover" />
+                        <img src={course.image} alt={course.title} className="w-full max-h-[400px] object-cover" />
                         <div className="p-5">
                             <span className="text-xs bg-indigo-100 text-indigo-600 font-semibold px-3 py-1 rounded-full inline-block mb-3">{`#${course.tag}`}</span>
                             <h3 className="text-lg font-semibold text-gray-800 mb-2">{course.title}</h3>
                             <div className="text-sm text-gray-600 space-y-1 mb-4">
-                                {/* <p>{course.duration}</p> */}
+                                <p>{course.duration}</p>
                                 <p>{course.format}</p>
                             </div>
                             <div className="flex justify-between items-center">
