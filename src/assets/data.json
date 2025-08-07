@@ -5,7 +5,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/masterclass.jpg",
-        "link": "https://www.educarcomevidencias.com/masterclass-da-alfabetizacao"
+        "link": "https://www.educarcomevidencias.com/masterclass-da-alfabetizacao",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Curso de Avaliação Cognitiva da Leitura",
@@ -13,7 +14,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/cognitiva.jpg",
-        "link": "https://www.educarcomevidencias.com/curso-de-avaliacao-cognitiva-da-leitura"
+        "link": "https://www.educarcomevidencias.com/curso-de-avaliacao-cognitiva-da-leitura",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Intervenção em Fluência de Leitura",
@@ -21,7 +23,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/fluencia.jpg",
-        "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura"
+        "link": "https://www.educarcomevidencias.com/intervencao-em-fluencia-de-leitura",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Grupo de discussão Clínica e Pedagógica | Dr. Gabriel Brito",
@@ -29,7 +32,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/grupo.jpg",
-        "link": "https://chk.eduzz.com/2456873"
+        "link": "https://chk.eduzz.com/2456873",
+        "disponibilidade": "ativo"
     },
     {
         "title": "RTI : Suporte educacional para todos.",
@@ -37,7 +41,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/RTI.jpg",
-        "link": "https://chk.eduzz.com/1W3VQB1G92"
+        "link": "https://chk.eduzz.com/1W3VQB1G92",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Curso de Psicometria Básica",
@@ -45,7 +50,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/psicometria.jpg",
-        "link": "https://chk.eduzz.com/39ZB6VOD9E"
+        "link": "https://chk.eduzz.com/39ZB6VOD9E",
+        "disponibilidade": "ativo"
     },
     {
         "title": "O Papel das Funções Executivas em Contextos Desafiadores",
@@ -53,7 +59,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/funcoesExecutivas.jpg",
-        "link": "https://chk.eduzz.com/69KAGZ870O"
+        "link": "https://chk.eduzz.com/69KAGZ870O",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Palestra Online - Curriculum Lattes",
@@ -61,7 +68,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/lattes.jpg",
-        "link": "https://chk.eduzz.com/D0RANO129Y"
+        "link": "https://chk.eduzz.com/D0RANO129Y",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Leia como uma Estrela: Dominando as Sílabas Complexas",
@@ -69,7 +77,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/estrela de cinema.jpg",
-        "link": "https://chk.eduzz.com/89AQ7VXGWD"
+        "link": "https://chk.eduzz.com/89AQ7VXGWD",
+        "disponibilidade": "ativo"
     },
     {
         "title": "A ciência por traz do mindfulness",
@@ -77,7 +86,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/carolina.jpg",
-        "link": "https://chk.eduzz.com/G92EQV1KWE"
+        "link": "https://chk.eduzz.com/G92EQV1KWE",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Dificuldades de leitura em crianças com TEA: Qual o papel da avaliação?",
@@ -85,7 +95,8 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/tatiana.jpg",
-        "link": "https://chk.eduzz.com/89AQNOYGWD"
+        "link": "https://chk.eduzz.com/89AQNOYGWD",
+        "disponibilidade": "ativo"
     },
     {
         "title": "Língua e Linguagem em Múltiplas Modalidades",
@@ -93,7 +104,7 @@
         "duration": "",
         "format": "Online",
         "image": "/images/courses/capovilla.jpg",
-        "link": "https://chk.eduzz.com/G961YV4QW1"
+        "link": "https://chk.eduzz.com/G961YV4QW1",
+        "disponibilidade": "indisponivel"
     }
-
 ]
