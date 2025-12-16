@@ -5,6 +5,7 @@ const menuItems = [
     { label: 'Home', href: 'https://www.educarcomevidencias.com/' },
     { label: 'Blog', href: 'https://www.educarcomevidencias.com/blog' },
     { label: 'Cursos', href: '/' },
+    { label: 'Mentoria', href: 'https://mentoria.educarcomevidencias.com/' },
     { label: 'Educar Indica', href: 'https://educarindica.educarcomevidencias.com/' },
     { label: 'Área do Aluno', href: 'https://portal.educarcomevidencias.com/auth/login?redirect=%2F' },
     { label: 'Loja', href: 'https://www.educarcomevidencias.com/loja' },
